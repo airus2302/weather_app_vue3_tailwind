@@ -2,6 +2,8 @@
 
 [Youtube The Net Ninja Link - Weather App Build (Vue 3 & Tailwind)](https://www.youtube.com/watch?v=gUsBaB5ViAo)
 
+[Github Source Code - https://github.com/johnkomarnicki/net_ninja_vue_3_weather_app](https://github.com/johnkomarnicki/net_ninja_vue_3_weather_app)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
